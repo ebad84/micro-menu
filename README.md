@@ -2,8 +2,6 @@
 
 Simple MicroPython class to create simple and no-functioned menu without callbacks so you can build your own stuff. 
 
-[![uMenu Example on Video](https://img.youtube.com/vi/TZODmWPMVwM/0.jpg)](https://youtu.be/TZODmWPMVwM)
-
 ## Installation
 
 just copy two files in your esp8266 or other device(mine is wemos d1 mini with OLED 0.96 128x64 ssd1306)
